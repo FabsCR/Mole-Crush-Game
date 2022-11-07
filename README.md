@@ -1,5 +1,7 @@
 # Assembly Project
 
+![Image created with DALL-E AI](https://user-images.githubusercontent.com/99295085/200243324-18a6fabc-c4b7-4fbb-a14b-a0043daa953e.png)
+
 ## Description
 
 Arcade mole smasher game using 8086 assembly language
