@@ -2,6 +2,8 @@
 
 ![Image created with DALL-E AI](https://user-images.githubusercontent.com/99295085/200243763-e4604743-a806-4cd4-96ff-092fe999e9d1.jpg)
 
+*Image created with DALL-E*
+
 ## Description
 
 Arcade mole smasher game using 8086 assembly language
