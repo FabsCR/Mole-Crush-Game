@@ -1,6 +1,6 @@
 # Assembly Project
 
-![Image created with DALL-E AI](https://user-images.githubusercontent.com/99295085/200243324-18a6fabc-c4b7-4fbb-a14b-a0043daa953e.png)
+![Image created with DALL-E AI](https://user-images.githubusercontent.com/99295085/200243763-e4604743-a806-4cd4-96ff-092fe999e9d1.jpg)
 
 ## Description
 
