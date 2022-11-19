@@ -8,6 +8,10 @@
 
 Arcade mole smasher game using 8086 assembly language
 
+## Note
+
+It is expected to update the project in the future to add improvements and details in the code since due to lack of time they were not done in the best way. This is the result of a beginning student learning and using x86 assembly language
+
 ## Author
 
 *Creator of the code and documentation*
