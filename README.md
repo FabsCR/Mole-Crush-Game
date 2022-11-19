@@ -20,9 +20,13 @@ It is expected to update the project in the future to add improvements and detai
 
 **How to reach me --->** fabian.jose.fdez.fdez@gmail.com
 
-## Student Card
+## Student Card & University Information
 
-**2022144383**
+*Instituto Tecnologico de Costa Rica Sede San Carlos*
+
+*2022144383*
+
+Course: *Fundamentos de Organizacion de Computadoras - IC1400*
 
 ## The program was built with
 
