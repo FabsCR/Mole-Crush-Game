@@ -5,10 +5,8 @@ include "emu8086.inc"
     DB 100H dup(?)
 .data
     
-    ; Integrantes:
+    ; Integrante:
     ; Fabian Jose Fernandez Fernandez
-    ; Bayron Josue Alpizar Quesada
-    ; Justin Alonso Martinez Molina
        
             coordx db ?    ; cx
             coordY db ?    ; dx
