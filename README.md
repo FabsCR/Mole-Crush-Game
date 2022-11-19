@@ -6,7 +6,9 @@
 
 ## Description
 
-Arcade mole smasher game using 8086 assembly language
+*En* - Arcade mole smasher game using 8086 assembly language
+
+*Es* - Juego de topos en lenguaje ensamblador 8086
 
 ## Note
 
